@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787435309284",
+    "project_id": "courseramvp1",
+    "storage_bucket": "courseramvp1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787435309284:android:98d036573f7e6b4346c4f1",
+        "android_client_info": {
+          "package_name": "com.example.courseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmNkeARoyDaIgtDD0CG-U2Bzbu08I83N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
