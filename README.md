@@ -1,16 +1,43 @@
-# flutter_application_1
+# 🎓 Coursera MVP Clone (Flutter)
 
-A new Flutter project.
+A minimal mobile app inspired by Coursera — built using **Flutter**. This MVP (Minimum Viable Product) includes a login page, course listing, and course detail pages.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Login screen (non-authenticated for now)
+- 📚 Course list with title and subtitle
+- 📖 Detailed view of each course
+- ✨ Smooth page navigation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- **Flutter** for UI and navigation
+- **Dart** for logic
+- **VS Code** as IDE
+- *(Firebase setup optional — currently not included)*
+
+---
+
+
+---
+
+## 🚀 Getting Started
+
+### 🔧 Requirements
+
+- Flutter SDK installed
+- VS Code or Android Studio
+- Emulator or real Android device
+
+### 🧪 Run the App
+
+Clone the repository and run:
+
+```bash
+flutter pub get
+flutter run
+
